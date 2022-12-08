@@ -1,12 +1,11 @@
-# ECE585_TomasuloAlgorithm
-
-##C++ Tomasulo Algorithm Datapath/Simulator
-**Author: Arthur J. Miller**
-
 # ECE585_TomasuloAlgorithm_Modifed
 
 ##C++ Tomasulo Algorithm Datapath/Simulator w/ Load Fubnctionality
+
 **Author: Aron Resty B. Ramillano**
+
+Original simulator was created by:
+**Arthur J. Miller**
 
 ---
 
@@ -17,6 +16,7 @@
 3. Dr. Chandra professor at Cal Poly Pomona
 
 Full project can be found on www.github.com/milleraj66/ECE585_TomasuloAlgorithm
+
 This modified project is found on https://github.com/PERSEUS-1337/ECE585_TomasuloAlgorithm_Modified
 
 Date of last development: 12-08-2022
