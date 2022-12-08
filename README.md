@@ -1,6 +1,6 @@
 # ECE585_TomasuloAlgorithm_Modifed
 
-##C++ Tomasulo Algorithm Datapath/Simulator w/ Load Fubnctionality
+## C++ Tomasulo Algorithm Datapath/Simulator w/ Load Fubnctionality
 
 **Author: Aron Resty B. Ramillano**
 
@@ -9,7 +9,7 @@ Original simulator was created by:
 
 ---
 
-###This program follows the algorithm as stated by the following sources
+### This program follows the algorithm as stated by the following sources
 
 1. Computer Architecture : A Quantitative Approach (5th Edition) by Hennessy, John L., Patterson, David A.
 2. https://en.wikipedia.org/wiki/Tomasulo_algorithm#Implementation_concepts
@@ -23,7 +23,7 @@ Date of last development: 12-08-2022
 
 ---
 
-#INSTRUCTIONS FOR USE OF THIS PROGRAM:
+# INSTRUCTIONS FOR USE OF THIS PROGRAM:
 **1. SETUP RESERVATION STATION ARCHITECTURE:**
 
 a. Define the constants for the # of Reservation Stations
